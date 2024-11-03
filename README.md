@@ -11,6 +11,9 @@ Pavo-Pico-V1-No-GPS - taken from pavo not confiured yet for Mobula8 but works we
 Happymodel Mobula8 Motor configuration
 
 Motor 1 = Normal
+
 Motor 2 = Reverse
+
 Motor 3 = Reverse
+
 Motor 4 = Normal
